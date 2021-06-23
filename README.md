@@ -14,6 +14,16 @@ Web-Customer-Tracker is a CRM application where managers can track their custome
 * Manager can search for specific customers and sorting the list.
 
 ## Run Locally
-1.
-2.
-3.
+1. Set up 2 SQL files
+2. add `mysql-connector-java-8.0.12.jar` inside `WEB-INF/lib`
+3. add `JSTL libs`, `Spring JAR files` and `Hibernate JAR files` inside `WEB-INF/lib`
+4. For Java 9 and higher, need to additional JAR files. 
+```
+javax.activation-1.2.0.jar 
+
+jaxb-api-2.3.0.jar 
+
+jaxb-core-2.3.0.jar 
+
+jaxb-impl-2.3.0.jar
+```
