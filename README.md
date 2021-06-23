@@ -6,16 +6,14 @@
 ![Image](https://res.cloudinary.com/dql5gkbx4/image/upload/v1624424669/samples/update_fpeqlx.png)
 ![Image](https://res.cloudinary.com/dql5gkbx4/image/upload/v1624424669/samples/delete_slmmbb.png)
 ![Image](https://res.cloudinary.com/dql5gkbx4/image/upload/v1624424669/samples/Search_oy9dfs.png)
-![Image]()
-![Image]()
 
-
-Tracks is an app where users can track their own routes and save them. This project was part of Stephen Grider's React Native course on Udemy.
+Web-Customer-Tracker is a CRM application where managers can track their customers with simple functionalities: add, update, delete, sort and search. This project was part of Chad Darby's Spring & Hibernate for Beginners (includes Spring Boot) on Udemy.
 
 ## Features
-
-* Users can sign up, log in and log out
-* Users can track their own routes and save them
-* Users are able to look up their tracks' details
+* Manager can update, delete, and add customers.
+* Manager can search for specific customers and sorting the list.
 
 ## Run Locally
+1.
+2.
+3.
