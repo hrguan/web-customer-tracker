@@ -18,7 +18,7 @@ Web-Customer-Tracker is a CRM application where managers can track their custome
 ## Learn
 * Spring Hibernate set up
 * Set up database
-* Spring MVC
+* Spring MVC framework - set up request mapping & jsp page
 * Configure Spring with Hibernate
 * DAO
 * AOP
