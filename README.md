@@ -13,6 +13,14 @@ Web-Customer-Tracker is a CRM application where managers can track their custome
 * Manager can update, delete, and add customers.
 * Manager can search for specific customers and sorting the list.
 
+## Learn
+* Spring Hibernate set up
+* Set up database
+* Spring MVC
+* Configure Spring with Hibernate
+* DAO
+* AOP
+
 ## Run Locally
 1. Set up 2 SQL files
 2. add `mysql-connector-java-8.0.12.jar` inside `WEB-INF/lib`
